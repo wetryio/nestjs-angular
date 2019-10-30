@@ -1,0 +1,7 @@
+{
+  "appId": "net.gilsdav.fullstack",
+  "appName": "fullstack",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/fullstack"
+}
